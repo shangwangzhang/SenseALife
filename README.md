@@ -1,2 +1,2 @@
 # SenseALife
-BLE Management for Baby
+BLE Management
